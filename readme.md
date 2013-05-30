@@ -1,20 +1,30 @@
-A basic Rails Blog
-------------------
+A Basic Rails Blog
+==================
+
+Author
+------
+
+Christopher Fryman <br>
+- With the help of - <br>
+The second NSS Cohort <br>
+
 
 Purpose
-=======
+-------
 
 This is a learning project for rails as assinged in NSS 2013
 
-Usage
-=====
 
-This is a standatd rails app
-To tun tests use `rake`
-To run the app use ` `
+Usage
+-----
+
+This is a standatd rails app <br>
+To run tests use `rake` <br>
+To run the app use ` ` <br>
+
 
 Features
-========
+--------
 
 * Annonomyous Users can post aricles
 * Visitors should be able to view articles
@@ -25,20 +35,25 @@ Features
 * Authors can moderate comments in their blog
 * Authours can use media on their blog
 
-To Do / Project state
-=====================
 
-[ ] Make a blog
+Project state
+=============
+
+In devolopment
+
+
+To DO
+-----
+
+* Make a blog
+* All the other things
+
 
 ChangeLog:
-==========
+----------
 
 2013-05-29: Started Project
 
-Authour
-=======
-
-Christopher Fryman and the class of NSS 2013
 
 Licence:
 ========
