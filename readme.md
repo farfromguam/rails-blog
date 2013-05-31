@@ -1,52 +1,59 @@
 A Basic Rails Blog
 ==================
 
-Author
-------
+[Project State](#projcet_state) <br>
+[Licence](#licence) <br>
+
+
+Author:
+-------
 
 Christopher Fryman <br>
-- With the help of - <br>
+\- With the help of - <br>
 The second NSS Cohort <br>
 
 
-Purpose
--------
+Purpose:
+--------
 
 This is a learning project for rails as assinged in NSS 2013
 
 
-Usage
------
+Usage:
+------
 
 This is a standatd rails app <br>
 To run tests use `rake` <br>
-To run the app use ` ` <br>
+To run the app use `rails s` <br>
 
 
-Features
---------
+Features:
+---------
 
-* Annonomyous Users can post aricles
+
+
+* Authors can posts articles
+* Authors can edit and delete articles
+* Authors can upload media
+* Authours can use media in their articles
 * Visitors should be able to view articles
-* visitors should be able to view paginated articles
-* Logged in Users can posts articles
-* People shouls be able to comment on articles
+* Visitors should be able to navagite via pagination
+* People should be able to comment on articles
 * People should be able to comment on comments
-* Authors can moderate comments in their blog
-* Authours can use media on their blog
+* Authors can moderate comments
 
 
-Project state
+Project state {#project_state}
 =============
 
 In devolopment
 
 
-To DO
------
+To Do:
+------
 
-* Make a blog
-* All the other things
+- [ ] Make a blog
+- [ ] All the other things
 
 
 ChangeLog:
@@ -55,8 +62,8 @@ ChangeLog:
 2013-05-29: Started Project
 
 
-Licence:
-========
+Licence #licence
+=======
 
 The MIT License (MIT)
 
