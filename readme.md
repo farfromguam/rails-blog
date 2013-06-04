@@ -1,7 +1,7 @@
 A Basic Rails Blog
 ==================
 
-[Project State](#projcet_state) <br>
+[Project State] (#project_state) <br>
 [Licence](#licence) <br>
 
 
@@ -29,8 +29,6 @@ To run the app use `rails s` <br>
 
 Features:
 ---------
-
-
 
 * Authors can posts articles
 * Authors can edit and delete articles
